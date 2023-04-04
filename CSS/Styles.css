@@ -1,0 +1,10 @@
+h1 {
+    color: rgb(146, 82, 189);
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2, h3, h4 {
+    color:  #dc143d;
+    font-size: 35px;
+}
